@@ -1,6 +1,7 @@
 streamlit>=1.33.0
-tensorflow==2.15.0
+tensorflow-cpu==2.11.0
 numpy
 Pillow
 scikit-learn
 matplotlib
+opencv-python
